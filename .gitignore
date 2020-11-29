@@ -1,0 +1,8 @@
+*/*
+!*/src/
+!*/pom*
+maven*/
+
+!*/WebContent/
+*/WebContent/META-INF
+*/WebContent/WEB-INF/lib
